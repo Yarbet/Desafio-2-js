@@ -1,0 +1,31 @@
+.stickers-container {
+    display: flex;
+    
+}
+
+.sticker {
+    text-align: center;
+}
+
+.sticker img {
+    width: 100%;
+    max-width: 150px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#passwordForm {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+#message {
+    font-weight: bold;
+    margin-top: 10px;
+}
